@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+</head>
+<body>
+	<form action="/login" method="post">
+	    <input type="text" name="username">
+		<input type="date" name="birthday">
+		<input type="time" name="game-time">
+		<input type="email" name="email-address">
+		<input type="url" name="website">
+		<input type="number" name="cost">
+		<input type="tel" name="phone-number">
+<p>inside form</p>
+
+
+  ...
+   </form>
+
+
+</body>
+</html>

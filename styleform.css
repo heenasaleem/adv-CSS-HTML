@@ -1,0 +1,20 @@
+fieldset {
+  border: 1px solid #cecfd5;
+  border-radius: 6px;
+  padding: 24px 30px;
+  background-color: pink;
+
+}
+form {
+  border: 1px solid #c6c7cc;
+  border-radius: 5px;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  overflow: hidden;
+  width: 500px;
+  
+}
+input {
+  border-radius: 5px;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
